@@ -1,6 +1,6 @@
-## Ò»¡¢ĞÂ»ú°²×° 
+## ä¸€ã€æ–°æœºå®‰è£… 
 
-| [gitÏÂÔØ](https://git-scm.com/download/win) |                                |      |      |      |      |
+| [gitä¸‹è½½](https://git-scm.com/download/win) |                                |      |      |      |      |
 | :--------------------------------------: | ------------------------------ | ---- | ---- | ---- | ---- |
 |                                          |                                |      |      |      |      |
 | [typora](https://www.typora.io/#windows) | [maxiang](https://maxiang.io/) |      |      |      |      |
@@ -8,17 +8,17 @@
 
   			
 
-## ¶ş¡¢¼¼Êõ
+## äºŒã€æŠ€æœ¯
 
-| [nodejsµÄAPI](http://nodejs.cn/api/) | [realmÎÄµµ](https://realm.io/docs/java/latest/) |      |      |      |      |
+| [nodejsçš„API](http://nodejs.cn/api/) | [realmæ–‡æ¡£](https://realm.io/docs/java/latest/) |      |      |      |      |
 | ----------------------------------- | ---------------------------------------- | ---- | ---- | ---- | ---- |
-| [¼«¿Íµ¼º½](http://www.jikedaohang.com/) |                                          |      |      |      |      |
+| [æå®¢å¯¼èˆª](http://www.jikedaohang.com/) |                                          |      |      |      |      |
 |                                     |                                          |      |      |      |      |
 |                                     |                                          |      |      |      |      |
 
 
 
-## Èı¡¢ÆäËû
+## ä¸‰ã€å…¶ä»–
 
 | [lxxlx](http://lxxlx.com/video/Australian-Girl.html) | [91pornm](http://www.91pornm.cc/) | [youporn](http://hot-youporn.com/) | [91fuli](http://www.91fuli.org/) | [91porndz](http://www.91porndz.com/) |      |
 | ---------------------------------------- | --------------------------------- | ---------------------------------- | -------------------------------- | ------------------------------------ | ---- |
