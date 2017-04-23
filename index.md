@@ -1,7 +1,30 @@
 
 
-
 ## 一、新机安装 
+<table border="1" cellpadding="0" cellspacing="0" width = "98%" >
+    <tr>
+        <td width = "14%">[git下载](https://git-scm.com/download/win)</td>
+		<td width = "14%">[maxiang](https://maxiang.io/)</td>
+		<td width = "14%">[typora](https://www.typora.io/#windows)</td>
+		<td width = "14%">雾霾</td>
+		<td width = "14%">北京</td>
+		<td width = "14%">雾霾</td>
+		<td width = "14%">北京</td>
+    </tr>
+    <tr>
+        <td width = "14%">北京</td>
+		<td width = "14%">雾霾</td>
+		<td width = "14%">北京</td>
+		<td width = "14%">雾霾</td>
+		<td width = "14%">北京</td>
+		<td width = "14%">雾霾</td>
+		<td width = "14%">北京</td>
+    </tr>
+</table>
+
+
+
+
 
 |                                          |                                |      |      |      |      |
 | :--------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
